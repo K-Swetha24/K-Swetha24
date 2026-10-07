@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi 👋, I'm Swetha
 
-<!--
-**K-Swetha24/K-Swetha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a B.Tech student interested in Data Analytics, Python, SQL, and Software Development. I enjoy building projects to improve my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- Python
+- SQL
+- MySQL
+- HTML & CSS
+- Git & GitHub
+
+📂 Projects
+
+🎓 Student Management System
+
+A web-based application developed using Python and MySQL to manage student information, attendance, GPA, backlogs, fees, and marks.
+
+Technologies: Python, MySQL, HTML, CSS
+
+📚 Library Management System
+
+A system designed to manage books, students/users, book issuing, returns, and library records efficiently.
+
+Technologies: Python, SQL/MySQL
+
+📊 Student Grade Calculator
+
+A Python application that calculates a student's total marks, percentage, and grade based on marks obtained in multiple subjects.
+
+Technologies: Python
+
+💬 Random Quote Generator
+
+A simple Python project that generates random quotes using Python programming concepts.
+
+Technologies: Python
+
+🎓 Education
+
+B.Tech – CSE,
+Malla Reddy college of engineering.
+
+📫 Connect With Me
+
+- LinkedIn: Katamoni Swetha.
+- Email: katamoniswetha24@gmail.com
