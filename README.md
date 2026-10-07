@@ -1,10 +1,10 @@
-Hi 👋, I'm Swetha
+I'm Swetha
 
 B.Tech Student | Aspiring Data Analyst
 
 I'm a B.Tech student interested in Data Analytics, Python, SQL, and Software Development. I enjoy building projects to improve my programming and problem-solving skills.
 
-🛠️ Skills
+Skills
 
 - Python
 - SQL
@@ -12,38 +12,32 @@ I'm a B.Tech student interested in Data Analytics, Python, SQL, and Software Dev
 - HTML & CSS
 - Git & GitHub
 
-📂 Projects
+Projects
 
-🎓 Student Management System
+Student Management System
 
 A web-based application developed using Python and MySQL to manage student information, attendance, GPA, backlogs, fees, and marks.
 
 Technologies: Python, MySQL, HTML, CSS
 
-📚 Library Management System
+Library Management System
 
 A system designed to manage books, students/users, book issuing, returns, and library records efficiently.
 
 Technologies: Python, SQL/MySQL
 
-📊 Student Grade Calculator
+Student Grade Calculator
 
 A Python application that calculates a student's total marks, percentage, and grade based on marks obtained in multiple subjects.
 
 Technologies: Python
 
-💬 Random Quote Generator
-
-A simple Python project that generates random quotes using Python programming concepts.
-
-Technologies: Python
-
-🎓 Education
+Education
 
 B.Tech – CSE,
 Malla Reddy college of engineering.
 
-📫 Connect With Me
+Connect With Me
 
 - LinkedIn: Katamoni Swetha.
 - Email: katamoniswetha24@gmail.com
